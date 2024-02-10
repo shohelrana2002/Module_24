@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+section {
+  margin: 20px 10px;
+  color: tomato;
+}
+section ul {
+  margin: 10px 0;
+}
+section ul > li {
+  margin-left: 20px;
+  color: slategray;
+}
